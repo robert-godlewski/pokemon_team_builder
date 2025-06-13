@@ -28,3 +28,4 @@ In the terminal within the same directory type the following in to run react: %
 # References
 * [PokeAPI](https://pokeapi.co/)
 * [Markdown Guide](https://www.markdownguide.org/hacks/)
+* https://www.geeksforgeeks.org/javascript/how-to-remove-a-key-from-javascript-object/

@@ -5,6 +5,12 @@ client/.git
 client/.gitignore
 client/package-lock.json
 client/README.md
+# Temporary ignores
+client/src/components/FetchEVchain.jsx
+client/src/components/FetchPokemonDetails.jsx
+client/src/components/FetchPokemonSpecies.jsx
+client/src/components/FetchType.jsx
+client/src/pages/
 
 # Created by https://www.toptal.com/developers/gitignore/api/react
 # Edit at https://www.toptal.com/developers/gitignore?templates=react
